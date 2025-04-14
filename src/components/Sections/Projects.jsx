@@ -18,11 +18,13 @@ export default function Projects() {
       <div className="whiteBg">
         <div className="container">
           <HeaderInfo>
-            <h1 className="font40 extraBold">Our Awesome Projects</h1>
+            <h1 className="font40 extraBold">Our Team</h1>
             <p className="font13">
-              Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-              <br />
-              labore et dolore magna aliquyam erat, sed diam voluptua.
+            We believe in a collaborative approach, working closely with our clients to understand
+            their unique needs and deliver customized solutions.
+            <br/>
+            Our work has empowered numerous NGOs, startups, and businesses, driving significant
+impact in communities and industries worldwide
             </p>
           </HeaderInfo>
           <div className="row textCenter">

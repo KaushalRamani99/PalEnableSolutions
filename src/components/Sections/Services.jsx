@@ -31,21 +31,21 @@ export default function Services() {
           <ServiceBoxRow className="flex">
             <ServiceBoxWrapper>
               <ServiceBox
-                icon="roller"
+                icon="salesforce"
                 title="Salesforce Implementation"
                 subtitle="Streamline your operations with our customised Salesforce solutions."
               />
             </ServiceBoxWrapper>
             <ServiceBoxWrapper>
               <ServiceBox
-                icon="monitor"
+                icon="socialMedia"
                 title="Social Media Management"
                 subtitle="Enhance your digital presence with our expert social media management services."
               />
             </ServiceBoxWrapper>
             <ServiceBoxWrapper>
               <ServiceBox
-                icon="browser"
+                icon="webSite"
                 title="Website Development"
                 subtitle="Get a professionally designed website that reflects your brand's values."
               />
@@ -59,8 +59,9 @@ export default function Services() {
                 <h4 className="font15 semiBold">A few words about company</h4>
                 <h2 className="font40 extraBold">A Study of Creativity</h2>
                 <p className="font12">
-                  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
-                  diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+                PalEnable Solutions was founded with a vision to empower NGOs, socially responsible
+startups, and businesses through cutting-edge technology. Our journey began with a
+commitment to driving transformative change and creating sustainable impact.
                 </p>
                 <ButtonsRow className="flexNullCenter" style={{ margin: "30px 0"}}>
                   <div style={{ width: "190px" }}>

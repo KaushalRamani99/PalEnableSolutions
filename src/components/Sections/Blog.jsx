@@ -13,7 +13,7 @@ export default function Blog() {
           <HeaderInfo>
             <h1 className="font40 extraBold">Our Blog Stories</h1>
             <p className="font13">
-              Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+            Stay informed with the latest updates, insights, and stories from PalEnable Solutions.
               <br />
               labore et dolore magna aliquyam erat, sed diam voluptua.
             </p>

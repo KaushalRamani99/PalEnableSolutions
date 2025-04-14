@@ -6,6 +6,8 @@ import MonitorIcon from "../../assets/svg/Services/MonitorIcon";
 import BrowserIcon from "../../assets/svg/Services/BrowserIcon";
 import PrinterIcon from "../../assets/svg/Services/PrinterIcon";
 import Salesforce from "../../assets/Logo/SalesForce";
+import SocialMedia from "../../assets/Logo/SocialMedia";
+import Website from "../../assets/Logo/WebSite";
 
 export default function ServiceBox({icon, title, subtitle}) {
   let getIcon;
@@ -25,6 +27,12 @@ export default function ServiceBox({icon, title, subtitle}) {
       break;
     case "salesforce":
       getIcon = <Salesforce />;
+      break;
+    case "socialMedia":
+      getIcon = <SocialMedia />;
+      break;
+    case "webSite":
+      getIcon = <Website />;
       break;
     default:
       getIcon = <RollerIcon />;
