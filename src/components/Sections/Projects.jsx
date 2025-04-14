@@ -31,24 +31,24 @@ impact in communities and industries worldwide
             <div className="col-xs-12 col-sm-4 col-md-4 col-lg-4">
               <ProjectBox
                 img={ProjectImg1}
-                title="Awesome Project"
-                text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor."
+                title="Employee Name"
+                text="Roles And Short Bios"
                 action={() => alert("clicked")}
               />
             </div>
             <div className="col-xs-12 col-sm-4 col-md-4 col-lg-4">
               <ProjectBox
                 img={ProjectImg2}
-                title="Awesome Project"
-                text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor."
+                title="Employee Name"
+                text="Roles And Short Bios"
                 action={() => alert("clicked")}
               />
             </div>
             <div className="col-xs-12 col-sm-4 col-md-4 col-lg-4">
               <ProjectBox
                 img={ProjectImg3}
-                title="Awesome Project"
-                text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor."
+                title="Employee Name"
+                text="Roles And Short Bios"
                 action={() => alert("clicked")}
               />
             </div>
@@ -57,24 +57,24 @@ impact in communities and industries worldwide
             <div className="col-xs-12 col-sm-4 col-md-4 col-lg-4">
               <ProjectBox
                 img={ProjectImg4}
-                title="Awesome Project"
-                text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor."
+                title="Employee Name"
+                text="Roles And Short Bios"
                 action={() => alert("clicked")}
               />
             </div>
             <div className="col-xs-12 col-sm-4 col-md-4 col-lg-4">
               <ProjectBox
                 img={ProjectImg5}
-                title="Awesome Project"
-                text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor."
+                title="Employee Name"
+                text="Roles And Short Bios"
                 action={() => alert("clicked")}
               />
             </div>
             <div className="col-xs-12 col-sm-4 col-md-4 col-lg-4">
               <ProjectBox
                 img={ProjectImg6}
-                title="Awesome Project"
-                text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor."
+                title="Employee Name"
+                text="Roles And Short Bios"
                 action={() => alert("clicked")}
               />
             </div>
@@ -97,11 +97,12 @@ impact in communities and industries worldwide
               </AddLeftInner>
             </AddLeft>
             <AddRight>
-              <h4 className="font15 semiBold">A few words about company</h4>
-              <h2 className="font40 extraBold">A Study of Creativity</h2>
+              {/* <h4 className="font15 semiBold">A few words about company</h4> */}
+              <h2 className="font40 extraBold">Vision</h2>
               <p className="font12">
-                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
-                diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+              Our vision is to empower NGOs, socially responsible startups, and
+businesses by leveraging cutting-edge technology solutions, driving transformative change,
+and sustainable impact in communities and industries."
               </p>
               <ButtonsRow className="flexNullCenter" style={{ margin: "30px 0" }}>
                 <div style={{ width: "190px" }}>
